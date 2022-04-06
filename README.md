@@ -25,8 +25,11 @@
 <img src="https://komarev.com/ghpvc/?username=24hoster">
 </a>
 <a href="https://github.com/24host?tab=followers"><img src="https://img.shields.io/github/followers/24hoster?label=Followers&style=social" alt="GitHub Badge"></a>
+
 [Destruction/24host](LICENSE)
+
 LEGAL Please READ.
+
 -The software designed to perform website security testing.
 
 -The author is not responsible for any illegal use of these programs.
