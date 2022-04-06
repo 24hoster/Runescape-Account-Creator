@@ -8,7 +8,7 @@
 
 - **Runescape Account Creator** is a helpful tool that allows you to bulk mass create Accounts / Unclaimed / Unlooted!
 - **This is BETA. which means it needs improvements the whole script_gui took me max 3hours to develope** 
-- **for details / license keys [sellix](https://destruction.sellix.io/)** 
+- **for details / license keys visit my [sellix](https://destruction.sellix.io/)** 
 
  <a href=""><img src="https://cdn.sellix.io/storefront/a12e69fdd066b9a010d95b1cf3dfbdd001fcecb0/68747470733a2f2f692e696d6775722e636f6d2f665463774a4f702e706e67" alt="GUI"></a>
 # RPC [BETA]
