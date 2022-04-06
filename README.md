@@ -4,7 +4,7 @@
 
 
 
-## [Script Description](#) [https://www.youtube.com/watch?v=euiU-XyrXdk]
+## [YT Demo](#) [https://www.youtube.com/watch?v=euiU-XyrXdk]
 
 - **Runescape Account Creator** is a helpful tool that allows you to bulk mass create Accounts / Unclaimed / Unlooted!
 - **This is BETA. which means it needs improvements the whole script_gui took me max 3hours to develope** 
@@ -18,6 +18,7 @@
 - Choose Random Emails
  <a href=""><img src="https://cdn.sellix.io/storefront/a12e69fdd066b9a010d95b1cf3dfbdd001fcecb0/68747470733a2f2f692e696d6775722e636f6d2f665463774a4f702e706e67" alt="GUI">
 
+
 ##  **Profile / LLC**
  </a>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -27,6 +28,9 @@
 [Destruction/24host](LICENSE)
 LEGAL Please READ.
 -The software designed to perform website security testing.
+
 -The author is not responsible for any illegal use of these programs.
+
 -I am not accountable for anything you get into.
+
 -This is 100% educational, please do not misuse this tool
